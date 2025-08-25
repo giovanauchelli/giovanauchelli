@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou a Giovana Uchelli!
 
-- Sou **Técnica em Informática pelo UNASP-HT** e atualmente curso o segundo semestre de **Engenharia de Software na PUC Campinas**.  
-- Apaixonada por tecnologia, busco sempre aprender novas ferramentas e linguagens, aplicando meu conhecimento em projetos que unem criatividade, lógica e inovação. 🚀  
+> Sou **Técnica em Informática pelo UNASP-HT** e atualmente curso o segundo semestre de **Engenharia de Software na PUC Campinas**.  
+> Apaixonada por tecnologia, busco sempre aprender novas ferramentas e linguagens, aplicando meu conhecimento em projetos que unem criatividade, lógica e inovação. 🚀  
 
 ---
 
