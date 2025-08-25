@@ -33,7 +33,7 @@ Apaixonada por tecnologia, busco sempre aprender novas ferramentas e linguagens,
 ---
 
 ## 🌎 Contatos
-- 💼 [LinkedIn](https://linkedin.com/in/giovana-uchelli)  
+- 💼 [LinkedIn](https://linkedin.com/in/giovana-uchelli-641881298)  
 - 📧 E-mail: **giovana.uchelli@gmail.com**
 
 ---
