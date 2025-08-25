@@ -30,6 +30,7 @@
 ---
 ## 🌎 Contatos
 💌 Entre em contato comigo!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovana-uchelli-641881298) 
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:giovana.uchelli@gmail.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/giuchelli)
