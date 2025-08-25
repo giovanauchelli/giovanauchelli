@@ -28,7 +28,7 @@
 </p>
 
 ---
-# 💌 Entre em contato comigo!
+💌 Entre em contato comigo!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovana-uchelli-641881298) 
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:giovana.uchelli@gmail.com) 
