@@ -37,4 +37,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/giuchelli)
 
 ---
-✨ *“A cada código escrito, um passo a mais na construção de grandes soluções.”*
