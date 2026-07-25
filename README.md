@@ -31,8 +31,12 @@ Tenho interesse em desenvolvimento de software e estou sempre buscando aprender 
 
 ## Contato
 
-**LinkedIn**  
-www.linkedin.com/in/giovana-uchelli-641881298
+<p>
+  <a href="https://www.linkedin.com/in/giovana-uchelli-641881298">
+    <img src="https://img.shields.io/badge/LinkedIn-F8D7E8?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+  </a>
 
-**E-mail**  
-giovana.uchelli@gmail.com
+  <a href="mailto:giovana.uchelli@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-F8D7E8?style=for-the-badge&logo=gmail&logoColor=EA4335">
+  </a>
+</p>
