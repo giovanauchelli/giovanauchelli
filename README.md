@@ -16,6 +16,7 @@ Tenho interesse em desenvolvimento de software e estou sempre buscando aprender 
   <img src="https://img.shields.io/badge/Python-F8D7E8?style=for-the-badge&logo=python&logoColor=3776AB">
   <img src="https://img.shields.io/badge/Dart-F8D7E8?style=for-the-badge&logo=dart&logoColor=0175C2">
   <img src="https://img.shields.io/badge/C-F8D7E8?style=for-the-badge&logo=c&logoColor=A8B9CC">
+  <img src="https://img.shields.io/badge/JAVA-F8D7E8?style=for-the-badge&logo=java&logoColor=A8B9CC">
 </p>
 
 ## Desenvolvimento e Banco de Dados
@@ -25,6 +26,7 @@ Tenho interesse em desenvolvimento de software e estou sempre buscando aprender 
   <img src="https://img.shields.io/badge/Node.js-F8D7E8?style=for-the-badge&logo=node.js&logoColor=339933">
   <img src="https://img.shields.io/badge/MySQL-F8D7E8?style=for-the-badge&logo=mysql&logoColor=4479A1">
   <img src="https://img.shields.io/badge/Firestore-F8D7E8?style=for-the-badge&logo=firebase&logoColor=FFCA28">
+  <img src="https://img.shields.io/badge/MongoDB-F8D7E8?style=for-the-badge&logo=mongodb&logoColor=FFCA28">
 </p>
 
 ---
